@@ -48,7 +48,7 @@ class EmailSender:
 
             # Authentication
             #self.smtp.login(self.msg['From'], self.configuration['PASSWORD'])
-            self.smtp.login("affanaminn@gmail.com", "policewala")
+            self.smtp.login("Youe email id", "your password")
             
             #s.login(self.msg['From'], self.configuration['PASSWORD'])
             # Converts the Multipart msg into a string

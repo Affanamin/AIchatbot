@@ -31,3 +31,5 @@ Application Flow:
 ![chatbot_flow](https://user-images.githubusercontent.com/36659805/77891264-22049380-728a-11ea-93cf-001618fdaa22.PNG)
 
 By looking this application flow, create intents, fulfillment. Share this code so that everyone learn to create chatbots.
+
+Special thanks to iNeuron and Krish Naik.
